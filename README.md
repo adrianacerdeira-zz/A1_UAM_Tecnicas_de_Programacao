@@ -1,7 +1,7 @@
 # A1-UAM-Técnicas de Programação
-Minha resolução para a A1 de Técnicas de Programação do meu curso de Ciência da Computação da Universidade Anhembi Morumbi. Recebeu nota 10. 
+###Minha resolução para a A1 de Técnicas de Programação do meu curso de Ciência da Computação da Universidade Anhembi Morumbi. Recebeu nota 10. 
 
-O enunciado da questão era o seguinte:
+####O enunciado da questão era o seguinte:
 
 Caro estudante,
 
@@ -25,8 +25,8 @@ O sistema deverá oferecer, ao usuário, as seguintes funcionalidades:
 
 - Listar os veículos com o ano de fabricação acima de um certo valor especificado pelo usuário
 
-. - Listar os veículos filtrando-se pelo modelo.
+-Listar os veículos filtrando-se pelo modelo.
 
 O sistema deverá armazenar os veículos ordenados pelo ano de fabricação, ou seja, ao inserir um novo veículo, este deve ser inserido em ordem crescente de ano de fabricação.
 
-# A minha solução foi criada em C, como pedido pelo tutor. Espero que ajude a inspirar outros alunos.
+## A minha solução foi criada em C, como pedido pelo tutor. Espero que ajude a inspirar outros alunos.
