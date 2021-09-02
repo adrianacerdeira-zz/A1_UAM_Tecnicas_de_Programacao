@@ -1,4 +1,4 @@
-# A1-UAM-Técnicas de Programação
+# A1 - UAM - Técnicas de Programação
 ### Minha resolução para a A1 de Técnicas de Programação do meu curso de Ciência da Computação da Universidade Anhembi Morumbi. Recebeu nota 10. 
 
 #### O enunciado da questão era o seguinte:
