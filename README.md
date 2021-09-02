@@ -1,5 +1,5 @@
 # A1_UAM_Tecnicas_de_Programacao
-Minha resolução para a A1 de Técnicas de Programação do meu curso de Ciência da Computação da Universidade Anhembi Morumbi
+Minha resolução para a A1 de Técnicas de Programação do meu curso de Ciência da Computação da Universidade Anhembi Morumbi. Recebeu nota 10. 
 
 O enunciado da questão era o seguinte:
 Caro estudante,
